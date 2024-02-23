@@ -18,7 +18,7 @@ pip install beautifulsoup4
 
 **运行代码：**
 
-3. 下载vote.py，用 Python 自带的 IDLE 编辑器打开，新建文件，根据需要改最后一行。
+3. 下载vote.py，用 Python 自带的 IDLE 编辑器打开，根据需要改最后一行。
 4. 保存运行，在同一个文件夹下就会有输出的文件了，像这样：
 vote-69988(53-60).txt
 
